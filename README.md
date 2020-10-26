@@ -12,3 +12,4 @@ Commit 2:
 Commit 3:
 
 Подключаем Redux Thunk для Async
+53:15 https://www.youtube.com/watch?v=YdYyYMFPa44&
