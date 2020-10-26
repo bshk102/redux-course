@@ -8,3 +8,7 @@ Commit 1:
 Commit 2:
 
 Подключаем библиотеку Redux, используем createStore из редакса, а не свой. Создаём actionCreators, и переменные для action.type
+
+Commit 3:
+
+Подключаем Redux Thunk для Async
